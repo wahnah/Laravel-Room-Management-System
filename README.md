@@ -47,8 +47,8 @@ npm run build
 ```
 
 ### Login:
-- Email: wailantirajoh@gmail.com
-- Password: wailan
+- Email:
+- Password: 
 
 ## TODO:
 - Customer's Room:
